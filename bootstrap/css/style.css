@@ -1,0 +1,14 @@
+#card-cep{
+    margin-top: 100px;
+    width: 800px;
+    height: 900px;
+}
+
+#cep{
+    padding: 3px;
+    width: 350px;
+}
+
+#btn-buscar{
+    margin-left: 15px;
+}
